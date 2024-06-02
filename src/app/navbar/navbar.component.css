@@ -1,0 +1,12 @@
+.navbar{
+    padding-left: 20px;
+}
+
+.icon{
+    width:35px;
+    border-radius:15%;
+}
+
+.navbar-brand{
+    margin-left: 5px;
+}
